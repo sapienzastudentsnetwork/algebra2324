@@ -79,7 +79,7 @@
                 <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%2216+luglio+2026+%5BA-L%5D%22"> 16 Luglio </a> </td>
               </tr>
               <tr>
-                <td align="center"> 3 Settembre </td>
+                <td align="center"> <a href="https://github.com/sapienzastudentsnetwork/algebra/discussions?discussions_q=is%3Aopen+label%3A%223+settembre+2026+%5BA-L%5D%22"> 3 Settembre </a> </td>
               </tr>
             </table>
           </td>
